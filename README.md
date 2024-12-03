@@ -1,4 +1,4 @@
-# 📊 Financial Analysis and Decision-Making Model for a Growing Business  
+# 📊 Financial Analysis and Decision-Making Model 
 
 A comprehensive project to develop a financial model that analyzes performance metrics, forecasts future trends, and delivers actionable insights to senior management.  
 
